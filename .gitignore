@@ -1,0 +1,5 @@
+*.zip
+h2/src
+h2/docs
+h2/service
+.DS_Store
